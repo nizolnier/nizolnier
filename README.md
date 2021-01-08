@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicole Zolnier
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Typescript
 
 - 👯 I’m looking to collaborate on exciting projects!
 
