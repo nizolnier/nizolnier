@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Nicole Zolnier
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nizolnier" alt="nizolnier" /> </p>
+
 - 🖥️ I am a Computer Science student and a FullStack developer from Brazil
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: 
