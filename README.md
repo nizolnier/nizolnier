@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nicole Zolnier
-- I am a Computer Science student from Brazil <img src="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667" width="24px" alt="Brazil flag"/><br>
+- 🖥️ I am a Computer Science student and a FullStack developer from Brazil <img src="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667" width="24px" alt="Brazil flag"/><br>
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me anything and I will try to answer in the best way possible
