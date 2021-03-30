@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Nicole Zolnier
 - 🖥️ I am a Computer Science student and a FullStack developer from Brazil
 - 🌱 I’m currently learning Typescript
-- 💬 Ask me anything and I will try to answer in the best way possible
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzolnier@gmail.com)](mailto:nzolnier@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicole-zolnier/)](https://www.linkedin.com/in/nicole-zolnier/)
@@ -38,5 +37,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="50" />
 <img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="postman" width="50" />
-  
 </p>
+
+
+See you later, alligator
