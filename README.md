@@ -22,6 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt="firebase" width="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" />  
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" alt="c" width="50" />  
 </p>
 
 ### Design
