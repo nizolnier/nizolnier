@@ -39,7 +39,6 @@
 <img src="https://pics.freeicons.io/uploads/icons/png/18579954981556105328-512.png" alt="notion" width="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="slack" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="50" />
-<img src="https://symbols.getvecta.com/stencil_92/21_postman-icon.fddaf8a27f.svg" alt="postman" width="50" />
 </p>
 
 
