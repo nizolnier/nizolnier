@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nicole Zolnier
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizolnier" alt="nizolnier" /> </p>
 
-- 🖥️ I am a Computer Science student and a FullStack developer from Brazil
+- 🖥️ I am a Computer Science student at UCF
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzolnier@gmail.com)](mailto:nzolnier@gmail.com)
