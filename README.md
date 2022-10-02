@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizolnier" alt="nizolnier" /> </p>
 
 - 🖥️ I am a Computer Science student at UCF
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C (i hate it here)
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzolnier@gmail.com)](mailto:nzolnier@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicole-zolnier/)](https://www.linkedin.com/in/nicole-zolnier/)
