@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizolnier" alt="nizolnier" /> </p>
 
 - 🖥️ I am a Computer Science student at UCF
-- 🌱 I’m currently learning Java and Advanced Data Structures
+- 🌱 I’m currently working on Full Stack projects
 - 📫 How to reach me: 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzolnier@gmail.com)](mailto:nzolnier@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nizocareer@gmail.com)](mailto:nizocareer@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicole-zolnier/)](https://www.linkedin.com/in/nicole-zolnier/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a Ravenclaw with Slyterin ascendent
